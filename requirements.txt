@@ -1,0 +1,5 @@
+requests>=2.32,<3
+openpyxl>=3.1,<4
+pypdf>=6,<7
+Pillow>=11
+huggingface-hub>=1

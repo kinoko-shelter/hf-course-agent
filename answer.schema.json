@@ -1,0 +1,1 @@
+{"type":"object","additionalProperties":false,"properties":{"answer":{"type":"string"},"confidence":{"type":"number"},"sources":{"type":"array","items":{"type":"string"}},"limitations":{"type":"string"}},"required":["answer","confidence","sources","limitations"]}
